@@ -10,7 +10,7 @@ html {
     -ms-text-size-adjust: 100%;
 }
 
-.reservation input[type="text"] {
+.reservations input[type="text"] {
     width: 75%;
     border-top: 1px solid #03172b;
     border-right: 2px solid #647996;
