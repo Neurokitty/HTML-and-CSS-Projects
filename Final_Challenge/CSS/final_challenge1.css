@@ -1,3 +1,13 @@
+body {
+    background-color: rgb(43, 135, 192);
+  }
+  
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -166,5 +176,18 @@ img {
     justify-content: center; /* For centering text inside .video-overlay */
     align-items: center;
     background-color: rgba(69, 43, 171, 0);
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 
