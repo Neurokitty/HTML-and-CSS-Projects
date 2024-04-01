@@ -1,2 +1,2 @@
 # HTML-and-CSS-Projects 
-This repository is intended for my contributions at _The Tech Academy_, I will upload my projects here. This will be useful as a stepping stone to a wealth of knowledge in the technology industry. I hope you enjoy contributing, perusing, or cloning! 
+This repository has all of my contributions that I have made while studying HTML and CSS. Some of them may be brief while others have much more detail. You can view my portfolio here: neurokitty.github.io
